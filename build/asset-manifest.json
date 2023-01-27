@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b0839b6.css",
+    "main.js": "/static/js/main.f19ec03f.js",
+    "static/media/image-hero-desktop.png": "/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
+    "static/media/image-hero-mobile.png": "/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
+    "static/media/client-databiz.svg": "/static/media/client-databiz.d1e7955f847e089183caf61eb54feb51.svg",
+    "static/media/logo.svg": "/static/media/logo.1c174ccea84ec59ff8801662c788919d.svg",
+    "static/media/client-maker.svg": "/static/media/client-maker.3859368b1ba7e579d814353870c9edb0.svg",
+    "static/media/client-meet.svg": "/static/media/client-meet.2d6ffbad4108ea24377c66fe7655736e.svg",
+    "static/media/client-audiophile.svg": "/static/media/client-audiophile.8c670cdffe9fb124c848d53dcbee7913.svg",
+    "index.html": "/index.html",
+    "static/media/icon-close-menu.svg": "/static/media/icon-close-menu.3f33fd68b142340b7eb8c6887f92ee0c.svg",
+    "static/media/icon-menu.svg": "/static/media/icon-menu.863803c904916606b7a1998b3c5736aa.svg",
+    "main.6b0839b6.css.map": "/static/css/main.6b0839b6.css.map",
+    "main.f19ec03f.js.map": "/static/js/main.f19ec03f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b0839b6.css",
+    "static/js/main.f19ec03f.js"
+  ]
+}
