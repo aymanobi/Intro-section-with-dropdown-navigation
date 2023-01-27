@@ -1,0 +1,46 @@
+.left-content{
+    width: 50%;
+    height: 100%;
+    padding: 30px;
+}
+
+.left-content h1{
+    font-size: 70px;
+    margin-bottom: 40px;
+}
+
+.left-content p{
+    margin-bottom: 40px;
+    width: 400px;
+    line-height: 20px;
+    color: hsl(0, 0%, 41%);
+}
+
+.left-content button{
+    padding: 10px 30px;
+    background-color: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 98%);
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+@media screen and (max-width:600px){
+    .left-content{
+        width: 100%;
+        min-height: 100%;
+        margin: auto;
+        padding: 10px;
+        margin-top: 70px;
+        text-align: center;
+    }
+    .left-content h1{
+        font-size: 40px;
+        margin-bottom: 40px;
+    }
+    .left-content p{
+        margin-bottom: 40px;
+        width: 400px;
+        line-height: 20px;
+        color: hsl(0, 0%, 41%);
+    }
+}
