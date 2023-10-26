@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .nav-elem {
+      @apply flex justify-start items-center gap-4 cursor-pointer;
+    }
+  }
+
+  
